@@ -1,0 +1,8 @@
+.hadir{
+  background-color: dodgerblue;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  row-gap: 32px;
+  margin-top: 30px;
+}
